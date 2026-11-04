@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Recordatorios Contextuales</string>
+    <string name="subtitulo_app">Gestion de tareas</string>
+    <string name="nuevo_recordatorio">Nuevo recordatorio</string>
+    <string name="campo_titulo">Titulo</string>
+    <string name="campo_ubicacion">Ubicacion (opcional)</string>
+    <string name="campo_aviso">Aviso (opcional)</string>
+    <string name="guardar_recordatorio">Guardar</string>
+    <string name="mensaje_guardado">Recordatorio guardado.</string>
+    <string name="seccion_categorias_set">Categorias y filtros</string>
+    <string name="seccion_filtros_estado">Estado</string>
+    <string name="seccion_filtros_prioridad">Prioridad</string>
+    <string name="lista_recordatorios">Recordatorios</string>
+    <string name="sin_resultados">Sin resultados para el filtro seleccionado.</string>
+    <string name="error_titulo_corto">Ingresa al menos cuatro caracteres</string>
+    <string name="error_titulo_vacio">El titulo es obligatorio</string>
+</resources>
